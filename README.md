@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Gemtzen1
-- 👀 I’m interested in programming
-- 🌱 I currently know a litte C,C++ and Python
+- 👋 Hi, I’m @Gemtzen1.
+- 👀 I’m interested in programming.
+- 🌱 I currently know a little C,C++ and Python.
 
 <!---
 Gemtzen1/Gemtzen1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

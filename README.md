@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Gemtzen1.
-- 👀 I’m interested in programming.
-- 🌱 I currently know a little C,C++ and Python.
-- Recntly i begin JS,HTML&CSS and  PHP.
+Internauta
 
 <!---
 Gemtzen1/Gemtzen1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
